@@ -1,12 +1,5 @@
-
-
-
-
-
-
-
-
-
-
-
-we have called to inform you of your cars extended warranty.
+this
+is
+a
+WB
+class
